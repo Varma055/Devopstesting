@@ -1,1 +1,3 @@
-# Devopstesting
+# maven-project
+
+Simple Maven Project
